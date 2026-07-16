@@ -1,5 +1,5 @@
 name = "LegacyCodeImprovementAgent"
-description = "テストのないレガシーコードを変更する際に、現状理解、変更点の洗い出し、テスト位置の特定、依存関係の排除、特性化テストによる保護を行ってから安全に変更する専門エージェント。"
+description = "テストのないレガシーコードを、安全に変更・改善する。"
 
 developer_instructions = """
 テストのないレガシーコードへの変更を担当する。
