@@ -19,7 +19,7 @@ developer_instructions = """
 ## 使用する Skills
 
 - tdd
-- test-size
+- test-sizes
 - test-strategy
 - frontend-testing
 - playwright-e2e
