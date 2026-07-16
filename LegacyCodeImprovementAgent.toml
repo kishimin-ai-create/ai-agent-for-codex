@@ -15,40 +15,12 @@ developer_instructions = """
 
 ## 使用する Skills
 
-必要に応じて次の Skills を使用する。
-
 - legacy-code-analysis
-  - 現状理解
-  - 変更点の洗い出し
-  - 影響範囲の分析
-
 - characterization-testing
-  - 特性化テスト
-  - 現在の振る舞いの記録
-  - 入力と期待値の決定
-
 - dependency-breaking
-  - テストを妨げる依存関係の特定
-  - 接合部の作成
-  - 依存関係の排除
-
 - legacy-change-techniques
-  - Sprout Method
-  - Sprout Class
-  - Wrap Method
-  - Wrap Class
-  - 差分プログラミング
-
 - legacy-boundary
-  - 新しいコードとレガシーコードの分離
-  - 境界の作成
-  - Anti-Corruption Layer
-
 - safe-editing
-  - 超集中編集
-  - 単一目的の編集
-  - シグネチャの維持
-  - コンパイラの活用
 
 ## 完了条件
 
