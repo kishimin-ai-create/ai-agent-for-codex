@@ -24,8 +24,6 @@ developer_instructions = """
 - frontend-testing
 - playwright-e2e
 
-対象の技術やテスト種別に該当するSkillだけを使用する。
-
 ## 完了条件
 
 * 対象となるテストが作成されている。
