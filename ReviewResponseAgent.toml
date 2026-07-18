@@ -109,4 +109,5 @@ FixAgentの委譲が利用できない、失敗した、または中止条件に
 - `review/responses/{review-file-slug}-responses.md`が存在する。
 - 修正済み、返信のみ、blocked、failedの状態が正確に区別されている。
 - 未解決事項、検証結果、残存リスクを完了報告している。
+
 """

@@ -103,4 +103,5 @@ pnpm penpot:verify
 - accessibilityとresponsiveの確認結果
 - build、lint、test、Storybook、`pnpm penpot:verify`のコマンドと結果
 - 未実行の検証、残存リスク、ロジック修正が必要な事項
+
 """

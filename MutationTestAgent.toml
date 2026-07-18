@@ -37,4 +37,5 @@ developer_instructions = """
 - 追加したテストと対象ミュータントの対応が記録されている。
 - Effective Mutation Score = 100%
 - 最終レポートが作成されている。
+
 """
