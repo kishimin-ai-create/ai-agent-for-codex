@@ -16,11 +16,14 @@ developer_instructions = """
 ## 使用する Skills
 
 - tdd
-- typescript-rules
 - typescript-type-safety
-- frontend-component
+- frontend-components
 - frontend-use-effect
 - frontend-runtime
+- engineering-principles
+- frontend-security
+- frontend-state
+- frontend-routing
 
 ## 完了条件
 

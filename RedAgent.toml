@@ -23,6 +23,9 @@ developer_instructions = """
 - test-strategy
 - frontend-testing
 - playwright-test
+- test-case-design
+- test-patterns
+- a11y
 
 ## 完了条件
 

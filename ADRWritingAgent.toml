@@ -14,7 +14,7 @@ developer_instructions = """
 
 ADRを作成する際は、必ず次のSkillを参照する。
 
-- adr-writing/SKILL.md
+- adr-writing
 
 ADRを作成する際は、必ず次のReferenceを参照する。
 

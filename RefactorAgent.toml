@@ -32,12 +32,23 @@ developer_instructions = """
 
 - tdd
 - typescript-type-safety
-- frontend-component
+- frontend-components
 - frontend-use-effect
 - frontend-runtime
 - human-interface-guideline
 - test-strategy
 - test-sizes
+- a11y
+- engineering-principles
+- eslint-custom-rules
+- fix-patterns
+- frontend-architecture
+- frontend-display
+- frontend-routing
+- frontend-security
+- frontend-state
+- refactor-patterns
+- storybook-patterns
 
 ## 完了条件
 

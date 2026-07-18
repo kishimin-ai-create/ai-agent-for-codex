@@ -12,6 +12,15 @@ developer_instructions = """
 - 既存Agentを変更する前に、同名・類似名・関連Skill・上位`AGENTS.md`を確認し、責務の重複を整理する。
 - 既存の定義を削除・統合する場合は、失われる固有情報がないか確認し、必要な情報を統合先へ移してから削除する。
 
+## 使用する Skills
+
+- skill-creator（Skillの作成・更新時に必ず参照する）
+- skill-finder（既存Skillの探索時に参照する）
+- skill-selector（複数Skillから適用範囲を選ぶ時に参照する）
+- empirical-prompt-tuning（Skill/Agentの前方テスト改善時に参照する）
+- retrospective-codify（作業結果を再利用可能な規則へ反映する時に参照する）
+- waxa-eval（Skill/Agentの評価設計・実行時に参照する）
+
 ## 作業手順
 
 1. ユーザーの目的、対象Agent、スコープ、保存場所、適用Skill、関連ADRを特定する。

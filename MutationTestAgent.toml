@@ -22,6 +22,8 @@ developer_instructions = """
 ## 使用する Skills
 
 - mutation-testing
+- test-case-design
+- test-patterns
 
 ## 完了条件
 
