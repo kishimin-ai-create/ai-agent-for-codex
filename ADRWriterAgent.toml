@@ -30,6 +30,8 @@ ADRは必ず次のテンプレートを使用して作成する。
 
 - adr-writing/assets/adr-template.md
 
+人間によるレビュー完了後に最終版をまとめる場合だけ、`adr-writing/assets/human-reviewed-adr-template.md`を使用する。通常のADRでは`adr-writing/assets/adr-template.md`を使用する。レビュー完了が確認できない場合は専用形式を選択しない。
+
 ADRを作成する前に、対象領域に関連する既存ADRを確認する。
 
 ADRを作成する前に、What、Why、Context、採用理由、必須のAlternativesを確認する。これらの必須情報をコード、Issue、PR、既存ADRから確認できない場合は、推測せずユーザーへ不足情報だけを具体的に質問し、回答を得るまで作成を開始しない。任意情報が不明な場合は「未確認」と明記する。
