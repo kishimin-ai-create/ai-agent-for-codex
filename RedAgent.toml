@@ -22,7 +22,7 @@ developer_instructions = """
 - test-sizes
 - test-strategy
 - frontend-testing
-- playwright-e2e
+- playwright-test
 
 ## 完了条件
 
