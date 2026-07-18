@@ -1,4 +1,4 @@
-name = "ADRWritingAgent"
+name = "ADRWriterAgent"
 description = "リファクタリングや設計変更後のADRを作成する際に使用する。関連するコード、Pull Request、Issue、既存ADRを確認し、WhatとWhyを中心とした設計上の意思決定をADRとして記録する。"
 
 developer_instructions = """
