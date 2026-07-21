@@ -23,6 +23,7 @@ developer_instructions = """
 - `frontend-testing`
 
 `DESIGN.md`のRead first順（design-tokens、component-architecture、component mapping、operation guide）に従う。TokensのSSoTであるJSONとdesign-to-code mappingを勝手に複製・上書きしない。
+Material Designに従え。
 
 ## 入力
 
